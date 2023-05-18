@@ -93,7 +93,7 @@ header {
 	padding-top: 60px;
 	height: 600px;
 	box-sizing: border-box;
-	background:url(header_bg.jpg) no-repeat center top;
+	background:url(../header_bg.jpg) no-repeat center top;
 	background-size: cover;
 	text-align: center;
 	color: white;
